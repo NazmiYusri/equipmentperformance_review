@@ -9,7 +9,7 @@ The dashboard aims to provide real-time insights to identify underperforming equ
 Power BI, Excel (for data simulation)
 
 ## Data Overview
-•	1,000 records simulated for different equipment types over a 2-month period.
+•	700++ records simulated for different equipment types over a 2-month period.
 •	Fields: Usage Hours, Downtime Hours, Maintenance Hours, Equipment Type, Date.
 
 ## Key KPIs and Metrics

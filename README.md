@@ -19,7 +19,7 @@ Power BI, Excel (for data simulation)
 •	Average Usage Hours
 
 ## The Output Result
-
+<img src="equipmentreview_dashboard.png">
 
 ## Business Impact
 This dashboard enables early detection of performance issues, helps plan preventive maintenance, and improves equipment ROI through data-driven operational strategies.

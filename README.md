@@ -15,8 +15,8 @@ Power BI, Excel (for data simulation)
 ## Key KPIs and Metrics
 •	Average Utilization Rate
 •	Total Downtime Hours
-•	Maintenance Events by Equipment
-•	Usage Hours Trends
+•	Total Maintainance Hours
+•	Average Usage Hours
 
 ## The Output Result
 

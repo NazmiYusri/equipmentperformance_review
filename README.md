@@ -1,4 +1,4 @@
-# Project Title
+## Project Title
 Equipment Performance Monitoring Dashboard – Mining & Construction Sector 
 
 ## Project Goal
